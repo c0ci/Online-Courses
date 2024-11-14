@@ -1,5 +1,6 @@
 📖 Overview
 This platform provides a user-friendly interface for managing online courses, sharing educational content, and creating a collaborative learning environment. It’s part of a diploma project for professional qualification in "Applied Programming."
+<kbd>![shrek]([url](https://www.nbcstore.com/cdn/shop/products/SHREK-SS-63-MF1_750x.jpg?v=1693905182))<kbd>
 
 ✨ Key Features
 Admin Panel 🛠️: Organize and manage courses, categories, and user roles.
