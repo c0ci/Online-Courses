@@ -1,10 +1,10 @@
-📋 Table of Contents
-📖 Overview
-✨ Features
-💻 Technologies Used
-📂 Project Structure
-📈 Usage
-🧪 Testing
+>📋 Table of Contents
+>📖 Overview
+>✨ Features
+>💻 Technologies Used
+>📂 Project Structure
+>📈 Usage
+>🧪 Testing
 
 📖 Overview
 The purpose of this project is to create a comprehensive online learning platform that allows administrators, lecturers, and students to interact effectively. Administrators can manage course content, lecturers can upload and manage their lessons, and students can enroll in courses, complete tasks, and communicate with instructors.
